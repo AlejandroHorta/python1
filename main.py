@@ -1,8 +1,8 @@
 numeroUno = int (input('Digite el número:'))
-numeroDos = int (input('Digita segundo número:'))
+numerodos = int (input('Digita segundo número:'))
 
-print(f'El segundo número es: {numeroDos}')
+print(f'El segundo número es: {numerodos}')
 
 
-suma = numeroUno + numeroDos
+suma = numeroUno + numerodos
 print(f'la suma es {suma}')
